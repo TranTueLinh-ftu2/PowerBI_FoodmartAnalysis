@@ -3,9 +3,8 @@
 ## 1. Objective
 This project aims to visualize and analyze the sales data from January 1997 to December 1998 for a food retailer's retail store channel. The objective is to identify sales trends and uncover actionable insights to enhance business performance.
 
-## 2. Tools used
-One tools was used, Power BI:
-* Power BI: Employed for calculating metrics using DAX and visualizing data to derive actionable insights.
+## 2. Tool used
+One tools was used, Power BI or calculating metrics using DAX and visualizing data to derive actionable insights.
 
 ## 3. Key findings
 ### Page 1: Overview
@@ -21,7 +20,8 @@ One tools was used, Power BI:
 * Gourmet supermarket shows a high selling rate but low return rate, which is a positive indicators, contrast to Suppermarket.
 
 ### Page 3: Product
-* 35% of the product base is low fat and a half of it can be recycled.
+* 35% of the product base is low fat.
+* A half of the products can be recycled.
 * Hermanos items consistently rank as the top contributors to total revenue throughout the analyzed period.
 
 ### Page 4: Customer 
